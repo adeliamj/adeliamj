@@ -1,7 +1,7 @@
 # 💫 About Me:
 👋 I am Adelia Mifta <br> 🏫👩🏻‍💻 Informatics Engineering Student at State University of Malang <br> 👩‍🎨 I am a web developer
 
-#My Web Portfolio
+# 👩🏻‍💻 My Web Portfolio
 https://adeliamj-portfolio.vercel.app/
 
 ## 🌐 Socials:
