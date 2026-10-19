@@ -2,7 +2,7 @@
 👋 I am Adelia Mifta <br> 🏫👩🏻‍💻 Informatics Engineering Student at State University of Malang <br> 👩‍🎨 I am a web developer
 
 # 👩🏻‍💻 My Web Portfolio
-https://adeliamj-portfolio.vercel.app/
+[https://adeliamj-portfolio.vercel.app/](https://adeliamj-portofolio.netlify.app)
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/adeliamj_) 
